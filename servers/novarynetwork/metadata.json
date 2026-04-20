@@ -4,7 +4,6 @@
     "store": "https://store.novary.net/",
     "description": "A popular PvP network which specialises in many competitive gamemodes",
     "addresses": [
-        "mc.novary.net",
         "novary.net"
     ],
     "primaryAddress": "novary.net",
