@@ -27,8 +27,8 @@
     ],
     "gameTypes": [
         "PvP",
-        "SemiAnarquico",
-        "SurvivalOP"
+        "Survival",
+        "Skyblock"
     ],
     "socials": {
         "discord": "https://discord.gg/DbCZbcATsC"
