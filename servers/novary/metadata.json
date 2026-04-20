@@ -26,10 +26,9 @@
         "NA"
     ],
     "gameTypes": [
-        "SurvivalOP",
-        "SemiAnarquico",
-        "Prison",
-        "BoxPvP",
+        "PvP",
+        "Survival",
+        "Open World",
         "Skyblock"
     ],
     "socials": {
